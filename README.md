@@ -65,6 +65,8 @@ Takes the City and returns the weather forecast
 
 ## Screenshots
 
+image/Screenshot.png
+
 ## Video
 
 Please clink on the link below for the walkthrough video...
