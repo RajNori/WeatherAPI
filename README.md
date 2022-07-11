@@ -61,17 +61,17 @@ THEN I am again presented with current and future conditions for that city
 
 ## Features
 
-Takes the City and returns the weather forecast
+Takes the City and returns the weather forecast for the given city including the UV index amongst other features. It also gices us the forecast for the next 5 days so if you are a business traveller it should help check the forecast before making business decisions.
 
 ## Screenshots
-
-image/Screenshot.png
+![Screen](image/Screenshot.png)
 
 ## Video
 
 Please clink on the link below for the walkthrough video...
 
 ## Setup
+Please enter this URL in your browser (https://rajnori.github.io/WeatherAPI/) . 
 
 Enter the city and get the weather forecast
 
