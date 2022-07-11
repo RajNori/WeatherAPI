@@ -68,7 +68,7 @@ Takes the City and returns the weather forecast for the given city including the
 
 ## Video
 
-Please clink on the link below for the walkthrough video...
+Please clink on the link below for the walkthrough video...(https://youtu.be/-QIJUi79JMk)
 
 ## Setup
 Please enter this URL in your browser (https://rajnori.github.io/WeatherAPI/) . 
